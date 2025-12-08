@@ -1,0 +1,15 @@
+{
+  "name": "mitra-berkah-engineering-app",
+  "version": "1.0.0",
+  "description": "CV Mitra Berkah Engineering",
+  "license": "ISC",
+  "author": "Popjasa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
